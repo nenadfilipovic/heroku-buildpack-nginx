@@ -34,6 +34,7 @@ Some application servers (e.g. Ruby's Unicorn) halt progress when dealing with n
 * Language/App Server agnostic.
 * Customizable NGINX config.
 * Application coordinated dyno starts.
+* Graceful shutdown.
 
 ### Logging
 
